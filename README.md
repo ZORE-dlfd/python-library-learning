@@ -1,6 +1,7 @@
 # Python 库学习记录
 
 这个仓库用于记录我学习 Python 常用数据分析库的过程。当前内容主要包括 NumPy 和 Pandas 的基础笔记。
+之后的我看到这个笔记，或许会感触良久
 
 ## 目录结构
 
@@ -16,4 +17,4 @@
 | Day 3 | Pandas Series 与 DataFrame 基础 | 学习 Series 创建、索引访问、缺失值检查、去重排序、时间序列和 DataFrame 入门。 |
 | Day 4 | Pandas 数据导入与清洗 | 学习 CSV/JSON 导入导出、缺失值处理、类型转换、数据分箱、时间戳和分组聚合。 |
 
-详细说明见 [`笔记/README.md`](笔记/README.md)。
+
