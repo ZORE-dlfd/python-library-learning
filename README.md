@@ -1,3 +1,19 @@
-# python-library-learning
-learn how to use numpy. pandas. matplot.
-这个库是我用来学习python库函数的，我所有的笔记都将在这里提交，当我之后再来看的时候，或许会感触良久
+# Python 库学习记录
+
+这个仓库用于记录我学习 Python 常用数据分析库的过程。当前内容主要包括 NumPy 和 Pandas 的基础笔记。
+
+## 目录结构
+
+- `笔记/`：每天的学习笔记和练习数据。
+- `项目/`：之后用于提交完整练习项目或阶段性作品。
+
+## 每日学习内容
+
+| 天数 | 主题 | 主要内容 |
+| --- | --- | --- |
+| Day 1 | NumPy ndarray 基础 | 学习 ndarray 的创建、属性查看、数据类型、矩阵创建和随机数。 |
+| Day 2 | NumPy 数组操作 | 学习索引切片、条件筛选、广播、矩阵运算、统计函数、排序、拼接和变形。 |
+| Day 3 | Pandas Series 与 DataFrame 基础 | 学习 Series 创建、索引访问、缺失值检查、去重排序、时间序列和 DataFrame 入门。 |
+| Day 4 | Pandas 数据导入与清洗 | 学习 CSV/JSON 导入导出、缺失值处理、类型转换、数据分箱、时间戳和分组聚合。 |
+
+详细说明见 [`笔记/README.md`](笔记/README.md)。
