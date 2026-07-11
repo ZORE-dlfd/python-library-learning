@@ -1,0 +1,7 @@
+student_id,name,gender,math,english,city
+1001,Alice,F,92,88,Shanghai
+1002,Bob,M,78,,Beijing
+1003,Cindy,F,,91,Guangzhou
+1004,David,M,85,76,
+1005,Eva,F,96,95,Shenzhen
+1006,Frank,M,70,68,Beijing

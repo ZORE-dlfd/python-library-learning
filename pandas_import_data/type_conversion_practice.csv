@@ -1,0 +1,11 @@
+user_id,name,age,height_cm,signup_date,last_login,is_member,score,discount_rate,amount,city,zip_code,phone,remarks
+1,Alice,18,165.5,2026-07-01,2026-07-10 09:15:00,yes,92,10%,"1,299.50",Shanghai,02101,13800000001,normal
+2,Bob,20,178.0,2026/07/02,2026-07-10 18:30:00,no,85,0%,"899.00",Beijing,01002,13800000002,normal
+3,Cindy,,160.2,2026-07-03,,yes,88.5,15%,"2,100",Guangzhou,02003,13800000003,missing age and login
+4,David,unknown,172,July 4 2026,2026-07-11 08:05:30,true,76,5%,"450.75",Shenzhen,07550,13800000004,age is text
+5,Eva,19,,2026-07-05,2026-07-11 10:20:00,false,95,20%,"3,999.99",Hangzhou,03004,13800000005,missing height
+6,Frank,22,181.3,2026-07-06,not logged in,1,67,0.25,"1200",Beijing,01002,13800000006,boolean as number
+7,Grace,21,169.8,2026-07-07,2026-07-11 13:45:10,0,,30%,"0",Shanghai,02101,13800000007,missing score
+8,Henry,23,175.0,2026-07-08,2026-07-11 20:00:00,Y,89,12.5%,"680.00",Chengdu,61000,13800000008,member as Y
+9,Ivy,18,158.6,2026-07-09,2026-07-12 07:59:59,N,90,8%,"1,050.25",Wuhan,43000,13800000009,member as N
+10,Jack,24,180.4,2026-07-10,2026-07-12 12:10:05,yes,invalid,5%,"NaN",Nanjing,02500,13800000010,score and amount need cleaning

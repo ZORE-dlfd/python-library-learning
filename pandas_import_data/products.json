@@ -1,0 +1,30 @@
+[
+  {
+    "product_id": "P001",
+    "name": "keyboard",
+    "category": "computer",
+    "price": 199,
+    "stock": 45
+  },
+  {
+    "product_id": "P002",
+    "name": "mouse",
+    "category": "computer",
+    "price": 89,
+    "stock": 120
+  },
+  {
+    "product_id": "P003",
+    "name": "monitor",
+    "category": "computer",
+    "price": 899,
+    "stock": 18
+  },
+  {
+    "product_id": "P004",
+    "name": "desk lamp",
+    "category": "office",
+    "price": 129,
+    "stock": 32
+  }
+]

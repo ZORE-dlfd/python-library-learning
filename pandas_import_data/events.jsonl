@@ -1,0 +1,5 @@
+{"event_id":"E001","user":"Alice","action":"login","time":"2026-07-11 09:00:00"}
+{"event_id":"E002","user":"Alice","action":"view_product","time":"2026-07-11 09:03:12"}
+{"event_id":"E003","user":"Bob","action":"login","time":"2026-07-11 09:10:05"}
+{"event_id":"E004","user":"Cindy","action":"add_cart","time":"2026-07-11 09:15:41"}
+{"event_id":"E005","user":"Bob","action":"logout","time":"2026-07-11 09:30:00"}
