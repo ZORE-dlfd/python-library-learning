@@ -26,6 +26,18 @@
 
 主要学习 Pandas 更接近实际数据处理的内容。内容包括读取 CSV 和 JSON、导出 CSV、缺失值处理思路、数据类型转换、数据变形、数据分箱、时间戳处理和 groupby 分组聚合。
 
+## Day 5：Matplotlib 数据可视化
+
+文件：[`Day5_Matplotlib数据可视化.ipynb`](Day5_Matplotlib数据可视化.ipynb)
+
+主要学习 Matplotlib 的基础绘图方法。内容包括折线图、条形图和饼图，并练习设置图表大小、标题、坐标轴、刻度、图例、网格和中文字体。
+
+## Day 6：SciPy 科学计算常用函数
+
+文件：[`Day6_SciPy科学计算常用函数.ipynb`](Day6_SciPy科学计算常用函数.ipynb)
+
+主要学习 SciPy 各个常用模块。内容包括科学常数、线性代数、统计分析、假设检验、函数优化、数值积分、插值、傅里叶变换、信号处理、空间距离、稀疏矩阵、图像处理和特殊数学函数。笔记最后整理了函数速查表和练习题。
+
 ## 练习数据
 
 Day 4 使用的数据文件放在 [`pandas_import_data/`](pandas_import_data/)。
